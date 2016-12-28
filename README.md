@@ -361,7 +361,7 @@ Route::get('reports/xml', 'ReportsController@xmlToPdf');
 
 http://localhost:8000/reports/xml
 
-**Note 3:** 
+**Note 4:** 
 
 To use the example above you must copy the sample files located at:
 
@@ -423,7 +423,7 @@ Route::get('reports/json', 'ReportsController@jsonToPdf');
 
 http://localhost:8000/reports/json
 
-**Note 4:**
+**Note 5:**
 
 To use the example above you must copy the sample files located at:
 
